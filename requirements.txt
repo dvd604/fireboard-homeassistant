@@ -1,0 +1,2 @@
+homeassistant
+fireboard-cloud-api-client-async>=0.0.1
