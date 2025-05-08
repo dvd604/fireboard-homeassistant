@@ -1,0 +1,16 @@
+{
+  "domain": "fireboard",
+  "name": "FireBoard",
+  "codeowners": [
+    "@dvd604"
+  ],
+  "config_flow": true,
+  "single_config_entry": true,
+  "dependencies": [],
+  "documentation": "https://github.com/dvd604/fireboard-homeassistant",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": ["fireboard-cloud-api-client==0.0.1"],
+  "version": "0.1",
+  "platforms": ["sensor"]
+}
